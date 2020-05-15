@@ -1,0 +1,38 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# Logs Analysis
+- project: Logs Analysis
+  role: Student
+  duration: Jan 2018
+  url: "https://github.com/Minimalistic/Log-Analysis-Project"
+  description: The main purpose of this project was to create a reporting tool in Python that printed out reports based on the data in the provided SQL database. After creating the required queries, I took the project a step further and developed a text based user interface that provides the user a simple menu which allows them to select a database query they want and then have the results printed back to them when the query is completed.
+
+# Jasons Technical Interview Practice Project
+- project: Jasons Technical Interview Practice Project
+  role: Student
+  duration: Jun 2018
+  url: "https://github.com/Minimalistic/Jasons-Technical-Interview-Practice-Project"
+  description: This project's goal was to develop a set of functions written in Python that each answers different questions such as finding a matching substring anagram between two strings
+
+# Neighborhood Map Filming Locations
+- project: Neighborhood Map Filming Locations
+  role: Student
+  duration: Apr 2018
+  url: "https://github.com/Minimalistic/Neighborhood_Map_Filming_Locations"
+  description: Goal of the project was to develop a single page application featuring a map populated with information of my choice. Project also needed additional functionality including highlighting locations on the map with markers as well as third-party data about those markers including an embedded Google street view.
+
+# Categoria
+- project: Categoria
+  role: Student
+  duration: Apr 2018
+  url: "https://github.com/Minimalistic/Categoria-Old"
+  description: Utilizing a pre-existing SQLite database made up of restaurants, menus and meals, I created a Python program that ultimately would generate an HTML website a user could interact with. The website, named Categoria then would display categories and items within categories, all within a simple but effective card system similar to Google's Material Design guidelines.
+
+# Tournament Results
+- project: Tournament Results
+  role: Student
+  duration: Dec 2017
+  url: "https://github.com/Minimalistic/Udacity-Swiss-Tournament"
+  description: The challenge of the project was to develop a way to calculate matches between players in a Swiss-system tournament using Python, store the results in a database and query them using MySQL. One of the strengths of this project was my utilizing virtual tables, otherwise known as ‘views’ in MySQL to improve performance and reduce redundant code.
+
