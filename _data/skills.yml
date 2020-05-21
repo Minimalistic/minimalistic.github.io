@@ -1,12 +1,12 @@
 # Skills
 # Languages
-- skill: Languages
-  description: HTML | Liquid | CSS | Python | Markdown
+- skill: Languages/Coding
+  description: Python | Javascript | Liquid | HTML/CSS | Markdown | SQL/MySQL
 
 # Graphics
 - skill: Graphics
-  description: Photoshop | Illustrator | Creative Suite | Sketch App | 3DS Max | Z-Brush | Sketchbook Pro
+  description: Photoshop | Procreate | Illustrator | Creative Suite | Sketch App | 3DS Max | Z-Brush | Sketchbook Pro
 
 # Frameworks/Libraries/Other
-- skill: Frameworks/Libraries
-  description: React | Git | Jinja2 | Webapp2 | Jekyll
+- skill: Frameworks/Libraries/Misc
+  description: React | Git | Jinja2 | Webapp2 | Jekyll | Flask | Arduino | MicroPython | Document Generation | Computer Systems, Troubleshooting & Upgrades
